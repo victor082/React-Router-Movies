@@ -1,0 +1,6 @@
+.title {
+    display: flex;
+    justify-content: center;
+    color: #feda6a;
+    background: linear-gradient(45deg, #1d1e22 30%, #37383a 70%)
+}
